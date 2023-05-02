@@ -1,0 +1,188 @@
+[
+    {
+        "id": 1,
+        "name": "Li Ming",
+        "experience_years": 8,
+        "rating": 4.5,
+        "img_url": "https://img.freepik.com/free-photo/japanese-woman-posing-restaurant_23-2149319388.jpg?w=360&t=st=1683003327~exp=1683003927~hmac=4b37de0aa5ce87ca60fa836f9c92204003a7111df259cdf069fb2e0040c3f480",
+        "cuisine": "Chinese",
+        "description": "Li Ming is a master of Sichuan cuisine, known for his spicy and flavorful dishes. He has won several awards and competitions for his innovative recipes and techniques.",
+        "best_recipes": [
+            {
+                "name": "Szechuan pork and Chinese eggplant stir fry",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Mapo Tofu",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Sichuan Noodles with Spicy Pork Sauce (Dan Dan Mian)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Mala Chicken (La Zi Ji)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Sichuan Eggplant with Yu Xiang Sauce (鱼香茄子)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Wang Weilana",
+        "experience_years": 7,
+        "rating": 4.4,
+        "img_url": "https://media.istockphoto.com/id/1307875065/photo/housewife-on-background.jpg?s=612x612&w=0&k=20&c=7Y7SviZOVyNQecItHA0wV786cBWoLfRmzgyftxo3Xcc=",
+        "cuisine": "Chinese",
+        "description": "Wang Wei is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
+        "best_recipes": [
+            {
+                "name": "Cantonese Steamed Fish",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Char Siu (Cantonese BBQ Pork)",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Shrimp and Chive Dumplings",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Cantonese Roast Duck",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Cantonese Wonton Noodle Soup",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chen Li",
+        "experience_years": 6,
+        "rating": 4.3,
+        "img_url": "https://media.istockphoto.com/id/1213660289/photo/young-beautiful-chinese-chef-woman-wearing-cooker-uniform-and-hat-holding-tray-with-dome-with.jpg?s=612x612&w=0&k=20&c=Acr3SpWXvGhElDWXTo2Z7hfc7jpUQrXJuOs9SzuZEHA=",
+        "cuisine": "Chinese",
+        "description": "Chen Li is an expert of Hunan cuisine, known for his bold and fiery dishes. He loves to use smoked and cured ingredients, as well as fresh chilies and garlic, to create rich and complex flavors.",
+        "best_recipes": [
+            {
+                "name": "Hunan Beef with Cumin",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Hunan Smoked Pork with Dried Long Beans",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Hunan Steamed Fish Head with Diced Hot Red Peppers",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Hunan Spicy Chicken (Zi Ran Ji)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Hunan Style Tofu (Dou Fu Nao)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Zhang Lei",
+        "experience_years": 5,
+        "rating": 4.2,
+        "img_url": "https://media.istockphoto.com/id/1266521261/photo/an-asian-chinese-beautiful-woman-making-chinese-traditional-mid-autumn-snow-skin-mooncake-at.jpg?s=612x612&w=0&k=20&c=V8DtJ6xwfQYI-ernOpoT0rpXu4FYUjHDfHVcAdr9f3M=",
+        "cuisine": "Chinese",
+        "description": "Zhang Lei is a master of Shandong cuisine, known for his simple and elegant dishes. He has a knack for making soups and noodles, and uses vinegar and scallions to add a refreshing touch to his dishes.",
+        "best_recipes": [
+            {
+                "name": "Shandong Chicken Soup",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Shandong Pancakes (Jian Bing)",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Shandong Braised Pork Intestine (Lu Da Chang)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Shandong Cold Noodles (Liang Mian)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Shandong Stir-Fried Clams (Qing Zhao)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Liu Yang",
+        "experience_years": 4,
+        "rating": 4.1,
+        "img_url": "https://media.istockphoto.com/id/1135382312/photo/professional-chef-plating-gourmet-dish.jpg?s=612x612&w=0&k=20&c=932kpuNbeFLCWHh2GqzaNtYpHsStpavb86tTE8aovTY=",
+        "cuisine": "Chinese",
+        "description": "Liu Yang is a specialist of Zhejiang cuisine, known for his light and delicate dishes. He has a skill for making seafood and vegetarian dishes, and uses bamboo shoots, mushrooms, and sugar to create subtle and sweet flavors.",
+        "best_recipes": [
+            {
+                "name": "Zhejiang Braised Fish in Soy Sauce (Hong Shao Yu)",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Zhejiang West Lake Vinegar Fish (Xi Hu Cu Yu)",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Zhejiang Dongpo Pork (Dong Po Rou)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Zhejiang Longjing Shrimp (Long Jing Xia Ren)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Zhejiang Bamboo Shoots with Ham (Zhu Sun Rou Si)",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Lukas Paketao",
+        "experience_years": 4,
+        "rating": 4.4,
+        "img_url": "https://media.istockphoto.com/id/1175212531/photo/successful-asian-chef-standing-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=lJG7R56lBjTO8f-2AtOOfn8Cm9sxwH5hvaRFwFKZgv0=",
+        "cuisine": "Chinese",
+        "description": "Wang Wei is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
+        "best_recipes": [
+            {
+                "name": "Cantonese Steamed Fish",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+            },
+            {
+                "name": "Char Siu (Cantonese BBQ Pork)",
+                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+            },
+            {
+                "name": "Shrimp and Chive Dumplings",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
+            },
+            {
+                "name": "Cantonese Roast Duck",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
+            },
+            {
+                "name": "Cantonese Wonton Noodle Soup",
+                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+            }
+        ]
+    }
+]
