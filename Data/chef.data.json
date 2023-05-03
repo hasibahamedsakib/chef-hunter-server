@@ -4,29 +4,55 @@
         "name": "Li Ming",
         "experience_years": 8,
         "rating": 4.5,
-        "img_url": "https://img.freepik.com/free-photo/japanese-woman-posing-restaurant_23-2149319388.jpg?w=360&t=st=1683003327~exp=1683003927~hmac=4b37de0aa5ce87ca60fa836f9c92204003a7111df259cdf069fb2e0040c3f480",
+        "img_url": "https://media.istockphoto.com/id/1167794769/photo/an-asian-male-chefgray-background.jpg?s=612x612&w=0&k=20&c=HDb-KxGiWDHrIXJe_azG9vl8gbvyZYnl3nw_fjR7WwE=",
         "cuisine": "Chinese",
         "description": "Li Ming is a master of Sichuan cuisine, known for his spicy and flavorful dishes. He has won several awards and competitions for his innovative recipes and techniques.",
         "best_recipes": [
             {
-                "name": "Szechuan pork and Chinese eggplant stir fry",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chinese Scallion Pancakes",
+                "ingredients": [
+                    "Flour",
+                    "Water",
+                    "Salt",
+                    "Oil",
+                    "Scallions",
+                    "Soy Sauce",
+                    "Vinegar",
+                    "Sugar",
+                    "Ginger"
+                ],
+                "cooking_method": "Mix flour, water, and salt to form a smooth dough. Knead for 10 minutes and let it rest for 30 minutes. Divide the dough into four equal pieces and roll each piece into a thin circle. Brush oil over the surface and sprinkle scallions evenly. Roll up the circle into a log and coil it into a spiral. Flatten the spiral with a rolling pin. Heat oil in a large skillet over medium-high heat. Fry each pancake until golden and crisp on both sides. Cut into wedges and serve with dipping sauce made from soy sauce, vinegar, sugar, and ginger.",
+                "rating": 4.8
             },
             {
-                "name": "Mapo Tofu",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Chinese Dumplings",
+                "ingredients": [
+                    "Ground Pork",
+                    "Shrimp",
+                    "Cabbage",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Wonton Wrappers",
+                    "Water"
+                ],
+                "cooking_method": "Chop shrimp, cabbage, green onion, and ginger finely. In a large bowl, combine pork, shrimp, cabbage, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into half-moons. Press to seal. Bring a large pot of water to a boil. Add dumplings and cook until they float to the surface, about 10 minutes. Drain and serve with more soy sauce if desired.",
+                "rating": 4.5
             },
             {
-                "name": "Sichuan Noodles with Spicy Pork Sauce (Dan Dan Mian)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Mala Chicken (La Zi Ji)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Sichuan Eggplant with Yu Xiang Sauce (鱼香茄子)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Chinese Egg Drop Soup",
+                "ingredients": [
+                    "Chicken Broth",
+                    "Cornstarch",
+                    "Salt",
+                    "White Pepper",
+                    "Eggs",
+                    "Green Onion"
+                ],
+                "cooking_method": "In a small bowl, whisk cornstarch with some water to make a slurry. Set aside. In a large pot, bring chicken broth to a boil over high heat. Season with salt and white pepper to taste. Stir in the cornstarch slurry and cook until slightly thickened, stirring constantly. Reduce the heat to low and slowly drizzle in beaten eggs while stirring gently to form thin ribbons. Sprinkle green onion over the soup and serve hot.",
+                "rating": 4.2
             }
         ]
     },
@@ -40,24 +66,54 @@
         "description": "Wang Wei is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
         "best_recipes": [
             {
-                "name": "Cantonese Steamed Fish",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chow Mein",
+                "ingredients": [
+                    "Egg Noodles",
+                    "Chicken",
+                    "Oil",
+                    "Garlic",
+                    "Soy Sauce",
+                    "Oyster Sauce",
+                    "Sesame Oil",
+                    "Bean Sprouts",
+                    "Carrot",
+                    "Spring Onion"
+                ],
+                "cooking_method": "Cook noodles according to package directions. Drain and rinse with cold water. Cut chicken into thin slices and season with salt and pepper. Heat oil in a large skillet over high heat. Fry chicken until golden and cooked through. Transfer to a plate. In the same skillet, fry garlic until fragrant. Add soy sauce, oyster sauce, and sesame oil and bring to a boil. Add noodles and toss to coat. Add bean sprouts, carrot, and spring onion and stir-fry until crisp-tender. Return chicken to the skillet and mix well. Serve hot or cold.",
+                "rating": 4.5
             },
             {
-                "name": "Char Siu (Cantonese BBQ Pork)",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Wontons",
+                "ingredients": [
+                    "Wonton Wrappers",
+                    "Pork",
+                    "Shrimp",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Water",
+                    "Chicken Broth"
+                ],
+                "cooking_method": "Chop pork, shrimp, green onion, and ginger finely. In a large bowl, combine pork, shrimp, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into triangles. Press to seal. Bring a large pot of water to a boil. Add wontons and cook until they float to the surface, about 10 minutes. Drain and transfer to a serving bowl. In a small saucepan, bring chicken broth to a boil. Pour over wontons and serve with more soy sauce if desired.",
+                "rating": 4
             },
             {
-                "name": "Shrimp and Chive Dumplings",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Cantonese Roast Duck",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Cantonese Wonton Noodle Soup",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Szechwan Shrimp",
+                "ingredients": [
+                    "Shrimp",
+                    "Salt",
+                    "Cornstarch",
+                    "Oil",
+                    "Garlic",
+                    "Red Pepper Flakes",
+                    "Sugar",
+                    "Ketchup",
+                    "Vinegar"
+                ],
+                "cooking_method": "Peel and devein shrimp. Sprinkle with salt and cornstarch and toss to coat. Heat oil in a large skillet over high heat. Fry shrimp until pink and crisp, about 5 minutes. Transfer to a plate. In the same skillet, fry garlic and red pepper flakes until fragrant, about 1 minute. Add sugar, ketchup, and vinegar and bring to a boil. Reduce heat and simmer until slightly thickened, about 2 minutes. Return shrimp to the skillet and stir to coat with sauce. Serve with rice or noodles.",
+                "rating": 4.5
             }
         ]
     },
@@ -71,24 +127,50 @@
         "description": "Chen Li is an expert of Hunan cuisine, known for his bold and fiery dishes. He loves to use smoked and cured ingredients, as well as fresh chilies and garlic, to create rich and complex flavors.",
         "best_recipes": [
             {
-                "name": "Hunan Beef with Cumin",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chinese Scallion Pancakes",
+                "ingredients": [
+                    "Flour",
+                    "Water",
+                    "Salt",
+                    "Oil",
+                    "Scallions",
+                    "Soy Sauce",
+                    "Vinegar",
+                    "Sugar",
+                    "Ginger"
+                ],
+                "cooking_method": "Mix flour, water, and salt to form a smooth dough. Knead for 10 minutes and let it rest for 30 minutes. Divide the dough into four equal pieces and roll each piece into a thin circle. Brush oil over the surface and sprinkle scallions evenly. Roll up the circle into a log and coil it into a spiral. Flatten the spiral with a rolling pin. Heat oil in a large skillet over medium-high heat. Fry each pancake until golden and crisp on both sides. Cut into wedges and serve with dipping sauce made from soy sauce, vinegar, sugar, and ginger.",
+                "rating": 4.8
             },
             {
-                "name": "Hunan Smoked Pork with Dried Long Beans",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Chinese Dumplings",
+                "ingredients": [
+                    "Ground Pork",
+                    "Shrimp",
+                    "Cabbage",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Wonton Wrappers",
+                    "Water"
+                ],
+                "cooking_method": "Chop shrimp, cabbage, green onion, and ginger finely. In a large bowl, combine pork, shrimp, cabbage, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into half-moons. Press to seal. Bring a large pot of water to a boil. Add dumplings and cook until they float to the surface, about 10 minutes. Drain and serve with more soy sauce if desired.",
+                "rating": 4.5
             },
             {
-                "name": "Hunan Steamed Fish Head with Diced Hot Red Peppers",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Hunan Spicy Chicken (Zi Ran Ji)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Hunan Style Tofu (Dou Fu Nao)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Chinese Egg Drop Soup",
+                "ingredients": [
+                    "Chicken Broth",
+                    "Cornstarch",
+                    "Salt",
+                    "White Pepper",
+                    "Eggs",
+                    "Green Onion"
+                ],
+                "cooking_method": "In a small bowl, whisk cornstarch with some water to make a slurry. Set aside. In a large pot, bring chicken broth to a boil over high heat. Season with salt and white pepper to taste. Stir in the cornstarch slurry and cook until slightly thickened, stirring constantly. Reduce the heat to low and slowly drizzle in beaten eggs while stirring gently to form thin ribbons. Sprinkle green onion over the soup and serve hot.",
+                "rating": 4
             }
         ]
     },
@@ -133,24 +215,54 @@
         "description": "Liu Yang is a specialist of Zhejiang cuisine, known for his light and delicate dishes. He has a skill for making seafood and vegetarian dishes, and uses bamboo shoots, mushrooms, and sugar to create subtle and sweet flavors.",
         "best_recipes": [
             {
-                "name": "Zhejiang Braised Fish in Soy Sauce (Hong Shao Yu)",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chow Mein",
+                "ingredients": [
+                    "Egg Noodles",
+                    "Chicken",
+                    "Oil",
+                    "Garlic",
+                    "Soy Sauce",
+                    "Oyster Sauce",
+                    "Sesame Oil",
+                    "Bean Sprouts",
+                    "Carrot",
+                    "Spring Onion"
+                ],
+                "cooking_method": "Cook noodles according to package directions. Drain and rinse with cold water. Cut chicken into thin slices and season with salt and pepper. Heat oil in a large skillet over high heat. Fry chicken until golden and cooked through. Transfer to a plate. In the same skillet, fry garlic until fragrant. Add soy sauce, oyster sauce, and sesame oil and bring to a boil. Add noodles and toss to coat. Add bean sprouts, carrot, and spring onion and stir-fry until crisp-tender. Return chicken to the skillet and mix well. Serve hot or cold.",
+                "rating": 4.5
             },
             {
-                "name": "Zhejiang West Lake Vinegar Fish (Xi Hu Cu Yu)",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Wontons",
+                "ingredients": [
+                    "Wonton Wrappers",
+                    "Pork",
+                    "Shrimp",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Water",
+                    "Chicken Broth"
+                ],
+                "cooking_method": "Chop pork, shrimp, green onion, and ginger finely. In a large bowl, combine pork, shrimp, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into triangles. Press to seal. Bring a large pot of water to a boil. Add wontons and cook until they float to the surface, about 10 minutes. Drain and transfer to a serving bowl. In a small saucepan, bring chicken broth to a boil. Pour over wontons and serve with more soy sauce if desired.",
+                "rating": 4
             },
             {
-                "name": "Zhejiang Dongpo Pork (Dong Po Rou)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Zhejiang Longjing Shrimp (Long Jing Xia Ren)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Zhejiang Bamboo Shoots with Ham (Zhu Sun Rou Si)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Szechwan Shrimp",
+                "ingredients": [
+                    "Shrimp",
+                    "Salt",
+                    "Cornstarch",
+                    "Oil",
+                    "Garlic",
+                    "Red Pepper Flakes",
+                    "Sugar",
+                    "Ketchup",
+                    "Vinegar"
+                ],
+                "cooking_method": "Peel and devein shrimp. Sprinkle with salt and cornstarch and toss to coat. Heat oil in a large skillet over high heat. Fry shrimp until pink and crisp, about 5 minutes. Transfer to a plate. In the same skillet, fry garlic and red pepper flakes until fragrant, about 1 minute. Add sugar, ketchup, and vinegar and bring to a boil. Reduce heat and simmer until slightly thickened, about 2 minutes. Return shrimp to the skillet and stir to coat with sauce. Serve with rice or noodles.",
+                "rating": 4.5
             }
         ]
     },
@@ -164,24 +276,51 @@
         "description": "Wang Wei is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
         "best_recipes": [
             {
-                "name": "Cantonese Steamed Fish",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chinese Chicken and Broccoli",
+                "ingredients": [
+                    "Garlic",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Honey",
+                    "Chicken",
+                    "Broccoli"
+                ],
+                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
+                "rating": 4.92
             },
             {
-                "name": "Char Siu (Cantonese BBQ Pork)",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Sweet and Sour Pork",
+                "ingredients": [
+                    "Pork",
+                    "Cornstarch",
+                    "Egg",
+                    "Oil",
+                    "Pineapple",
+                    "Green Pepper",
+                    "Vinegar",
+                    "Sugar",
+                    "Ketchup",
+                    "Soy Sauce"
+                ],
+                "cooking_method": "Coat pork with cornstarch and egg. Deep-fry until golden and crisp. Drain on paper towels. In a saucepan, combine pineapple juice, vinegar, sugar, ketchup, and soy sauce. Bring to a boil and simmer until slightly thickened. Add pineapple chunks and green pepper. Cook until tender-crisp. Pour sauce over pork and serve with rice.",
+                "rating": 4.5
             },
             {
-                "name": "Shrimp and Chive Dumplings",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Cantonese Roast Duck",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Cantonese Wonton Noodle Soup",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Mushroom Mapo Tofu",
+                "ingredients": [
+                    "Shiitake Mushrooms",
+                    "Tofu",
+                    "Oil",
+                    "Garlic",
+                    "Ginger",
+                    "Spring Onions",
+                    "Chilli Bean Paste",
+                    "Soy Sauce",
+                    "Cornstarch",
+                    "Vegetable Stock"
+                ],
+                "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
+                "rating": 4
             }
         ]
     }
