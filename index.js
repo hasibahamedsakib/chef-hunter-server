@@ -9,6 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 const sliderData = require("./Data/Slider.json");
 const chefData = require("./Data/chef.data.json");
+const recipeCatagories = require("./Data/Recipe.catagories.json");
 
 app.get("/", (req, res) => {
   res.send("<h1>Server running</h1>");
@@ -27,6 +28,11 @@ app.get("/chef/:id", (req, res) => {
   const dataById = chefData.find((cd) => cd.id === +id);
   res.send(dataById);
 });
+
+app.get("/catagories", (req, res) => {
+  res.send(recipeCatagories);
+});
+
 app.listen(PORT, () => {
   console.log(`server is running at http://localhost:${PORT} `);
 });

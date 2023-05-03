@@ -184,24 +184,51 @@
         "description": "Zhang Lei is a master of Shandong cuisine, known for his simple and elegant dishes. He has a knack for making soups and noodles, and uses vinegar and scallions to add a refreshing touch to his dishes.",
         "best_recipes": [
             {
-                "name": "Shandong Chicken Soup",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2017/06/Mapo-Tofu6.jpg"
+                "name": "Chinese Chicken and Broccoli",
+                "ingredients": [
+                    "Garlic",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Honey",
+                    "Chicken",
+                    "Broccoli"
+                ],
+                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
+                "rating": 4.92
             },
             {
-                "name": "Shandong Pancakes (Jian Bing)",
-                "url": "https://www.yumofchina.com/wp-content/uploads/2021/08/Szechuan-pork-and-Chinese-eggplant-stir-fry.jpg"
+                "name": "Sweet and Sour Pork",
+                "ingredients": [
+                    "Pork",
+                    "Cornstarch",
+                    "Egg",
+                    "Oil",
+                    "Pineapple",
+                    "Green Pepper",
+                    "Vinegar",
+                    "Sugar",
+                    "Ketchup",
+                    "Soy Sauce"
+                ],
+                "cooking_method": "Coat pork with cornstarch and egg. Deep-fry until golden and crisp. Drain on paper towels. In a saucepan, combine pineapple juice, vinegar, sugar, ketchup, and soy sauce. Bring to a boil and simmer until slightly thickened. Add pineapple chunks and green pepper. Cook until tender-crisp. Pour sauce over pork and serve with rice.",
+                "rating": 4.5
             },
             {
-                "name": "Shandong Braised Pork Intestine (Lu Da Chang)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/03/2002_Yaka-Mein_004-270x405.jpg"
-            },
-            {
-                "name": "Shandong Cold Noodles (Liang Mian)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_4.jpg"
-            },
-            {
-                "name": "Shandong Stir-Fried Clams (Qing Zhao)",
-                "url": "https://omnivorescookbook.com/wp-content/uploads/2020/09/200806_Soondubu-Jjigae_1.jpg"
+                "name": "Mushroom Mapo Tofu",
+                "ingredients": [
+                    "Shiitake Mushrooms",
+                    "Tofu",
+                    "Oil",
+                    "Garlic",
+                    "Ginger",
+                    "Spring Onions",
+                    "Chilli Bean Paste",
+                    "Soy Sauce",
+                    "Cornstarch",
+                    "Vegetable Stock"
+                ],
+                "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
+                "rating": 4
             }
         ]
     },
