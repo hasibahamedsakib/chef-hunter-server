@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Tart Pecan Pie",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/pecan-pie-tart-in-baking-dish-traditional-festive-9WMXQ3Z-700x525.jpg",
+        "type": "Desserts",
+        "time": "1 hr 20 mins"
+    },
+    {
+        "id": 2,
+        "title": "Greek Gyro",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/greek-gyros-on-a-pita-bread-PNSV8HL-700x525.jpg",
+        "type": "Beef",
+        "time": "30 mins"
+    },
+    {
+        "id": 3,
+        "title": "Tomahawk Steak",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/beef-steak-tomahawk-S3JHQLN-700x525.jpg",
+        "type": "Beef",
+        "time": "20 mins"
+    },
+    {
+        "id": 4,
+        "title": "Baked Chicken Breast",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/baked-chicken-breast-9C4F43W-700x525.jpg",
+        "type": "Chicken",
+        "time": "1 hr 20 mins"
+    },
+    {
+        "id": 5,
+        "title": "Tofu and Cheese Pancakes",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/vegan-tofu-baked-cheese-pancakes-with-mango-2GBH46C-700x525.jpg",
+        "type": "Desserts,Vegetarian",
+        "time": "1 hr 35 mins"
+    },
+    {
+        "id": 6,
+        "title": "Chinese Veggie Stir Fry",
+        "desc": "A handful of simple ingredients typify the fresh, vibrant flavors of Greek cooking.",
+        "image": "https://149410494.v2.pressablecdn.com/wp-content/uploads/2020/03/cooked-vegetables-according-to-chinese-recipe-PN2GKUB-700x525.jpg",
+        "type": "Vegetarian",
+        "time": "1 hr 25 mins"
+    }
+]

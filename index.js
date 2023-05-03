@@ -10,6 +10,7 @@ const PORT = process.env.PORT || 5000;
 const sliderData = require("./Data/Slider.json");
 const chefData = require("./Data/chef.data.json");
 const recipeCatagories = require("./Data/Recipe.catagories.json");
+const latestRecipes = require("./Data/Latest.recipes.json");
 
 app.get("/", (req, res) => {
   res.send("<h1>Server running</h1>");
@@ -31,6 +32,10 @@ app.get("/chef/:id", (req, res) => {
 
 app.get("/catagories", (req, res) => {
   res.send(recipeCatagories);
+});
+
+app.get("/recipes", (req, res) => {
+  res.send(latestRecipes);
 });
 
 app.listen(PORT, () => {
