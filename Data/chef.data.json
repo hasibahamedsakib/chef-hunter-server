@@ -42,6 +42,23 @@
                 "rating": 4.5
             },
             {
+                "name": "Chinese Dumplings",
+                "ingredients": [
+                    "Ground Pork",
+                    "Shrimp",
+                    "Cabbage",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Wonton Wrappers",
+                    "Water"
+                ],
+                "cooking_method": "Chop shrimp, cabbage, green onion, and ginger finely. In a large bowl, combine pork, shrimp, cabbage, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into half-moons. Press to seal. Bring a large pot of water to a boil. Add dumplings and cook until they float to the surface, about 10 minutes. Drain and serve with more soy sauce if desired.",
+                "rating": 4.5
+            },
+            {
                 "name": "Chinese Egg Drop Soup",
                 "ingredients": [
                     "Chicken Broth",
@@ -81,6 +98,23 @@
                 ],
                 "cooking_method": "Cook noodles according to package directions. Drain and rinse with cold water. Cut chicken into thin slices and season with salt and pepper. Heat oil in a large skillet over high heat. Fry chicken until golden and cooked through. Transfer to a plate. In the same skillet, fry garlic until fragrant. Add soy sauce, oyster sauce, and sesame oil and bring to a boil. Add noodles and toss to coat. Add bean sprouts, carrot, and spring onion and stir-fry until crisp-tender. Return chicken to the skillet and mix well. Serve hot or cold.",
                 "rating": 4.5
+            },
+            {
+                "name": "Wontons",
+                "ingredients": [
+                    "Wonton Wrappers",
+                    "Pork",
+                    "Shrimp",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Water",
+                    "Chicken Broth"
+                ],
+                "cooking_method": "Chop pork, shrimp, green onion, and ginger finely. In a large bowl, combine pork, shrimp, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into triangles. Press to seal. Bring a large pot of water to a boil. Add wontons and cook until they float to the surface, about 10 minutes. Drain and transfer to a serving bowl. In a small saucepan, bring chicken broth to a boil. Pour over wontons and serve with more soy sauce if desired.",
+                "rating": 4
             },
             {
                 "name": "Wontons",
@@ -141,6 +175,23 @@
                 ],
                 "cooking_method": "Mix flour, water, and salt to form a smooth dough. Knead for 10 minutes and let it rest for 30 minutes. Divide the dough into four equal pieces and roll each piece into a thin circle. Brush oil over the surface and sprinkle scallions evenly. Roll up the circle into a log and coil it into a spiral. Flatten the spiral with a rolling pin. Heat oil in a large skillet over medium-high heat. Fry each pancake until golden and crisp on both sides. Cut into wedges and serve with dipping sauce made from soy sauce, vinegar, sugar, and ginger.",
                 "rating": 4.8
+            },
+            {
+                "name": "Chinese Dumplings",
+                "ingredients": [
+                    "Ground Pork",
+                    "Shrimp",
+                    "Cabbage",
+                    "Green Onion",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Sesame Oil",
+                    "Cornstarch",
+                    "Wonton Wrappers",
+                    "Water"
+                ],
+                "cooking_method": "Chop shrimp, cabbage, green onion, and ginger finely. In a large bowl, combine pork, shrimp, cabbage, green onion, ginger, soy sauce, sesame oil, and cornstarch. Mix well to form a filling. Place a teaspoon of filling in the center of each wonton wrapper. Wet the edges with water and fold into half-moons. Press to seal. Bring a large pot of water to a boil. Add dumplings and cook until they float to the surface, about 10 minutes. Drain and serve with more soy sauce if desired.",
+                "rating": 4.5
             },
             {
                 "name": "Chinese Dumplings",
@@ -228,6 +279,40 @@
                     "Vegetable Stock"
                 ],
                 "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
+                "rating": 3
+            },
+            {
+                "name": "Mushroom Mapo Tofu",
+                "ingredients": [
+                    "Shiitake Mushrooms",
+                    "Tofu",
+                    "Oil",
+                    "Garlic",
+                    "Ginger",
+                    "Spring Onions",
+                    "Chilli Bean Paste",
+                    "Soy Sauce",
+                    "Cornstarch",
+                    "Vegetable Stock"
+                ],
+                "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
+                "rating": 3
+            },
+            {
+                "name": "Mushroom Mapo Tofu",
+                "ingredients": [
+                    "Shiitake Mushrooms",
+                    "Tofu",
+                    "Oil",
+                    "Garlic",
+                    "Ginger",
+                    "Spring Onions",
+                    "Chilli Bean Paste",
+                    "Soy Sauce",
+                    "Cornstarch",
+                    "Vegetable Stock"
+                ],
+                "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
                 "rating": 4
             }
         ]
@@ -290,6 +375,22 @@
                 ],
                 "cooking_method": "Peel and devein shrimp. Sprinkle with salt and cornstarch and toss to coat. Heat oil in a large skillet over high heat. Fry shrimp until pink and crisp, about 5 minutes. Transfer to a plate. In the same skillet, fry garlic and red pepper flakes until fragrant, about 1 minute. Add sugar, ketchup, and vinegar and bring to a boil. Reduce heat and simmer until slightly thickened, about 2 minutes. Return shrimp to the skillet and stir to coat with sauce. Serve with rice or noodles.",
                 "rating": 4.5
+            },
+            {
+                "name": "Szechwan Shrimp",
+                "ingredients": [
+                    "Shrimp",
+                    "Salt",
+                    "Cornstarch",
+                    "Oil",
+                    "Garlic",
+                    "Red Pepper Flakes",
+                    "Sugar",
+                    "Ketchup",
+                    "Vinegar"
+                ],
+                "cooking_method": "Peel and devein shrimp. Sprinkle with salt and cornstarch and toss to coat. Heat oil in a large skillet over high heat. Fry shrimp until pink and crisp, about 5 minutes. Transfer to a plate. In the same skillet, fry garlic and red pepper flakes until fragrant, about 1 minute. Add sugar, ketchup, and vinegar and bring to a boil. Reduce heat and simmer until slightly thickened, about 2 minutes. Return shrimp to the skillet and stir to coat with sauce. Serve with rice or noodles.",
+                "rating": 4.5
             }
         ]
     },
@@ -300,8 +401,25 @@
         "rating": 4.4,
         "img_url": "https://media.istockphoto.com/id/1175212531/photo/successful-asian-chef-standing-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=lJG7R56lBjTO8f-2AtOOfn8Cm9sxwH5hvaRFwFKZgv0=",
         "cuisine": "Chinese",
-        "description": "Wang Wei is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
+        "description": "Lukas Paketao is a specialist of Cantonese cuisine, known for his delicate and refined dishes. He has a passion for seafood and dim sum, and uses fresh and seasonal ingredients to create balanced and harmonious flavors.",
         "best_recipes": [
+            {
+                "name": "Sweet and Sour Pork",
+                "ingredients": [
+                    "Pork",
+                    "Cornstarch",
+                    "Egg",
+                    "Oil",
+                    "Pineapple",
+                    "Green Pepper",
+                    "Vinegar",
+                    "Sugar",
+                    "Ketchup",
+                    "Soy Sauce"
+                ],
+                "cooking_method": "Coat pork with cornstarch and egg. Deep-fry until golden and crisp. Drain on paper towels. In a saucepan, combine pineapple juice, vinegar, sugar, ketchup, and soy sauce. Bring to a boil and simmer until slightly thickened. Add pineapple chunks and green pepper. Cook until tender-crisp. Pour sauce over pork and serve with rice.",
+                "rating": 4.5
+            },
             {
                 "name": "Chinese Chicken and Broccoli",
                 "ingredients": [
