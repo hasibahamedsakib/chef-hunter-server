@@ -235,19 +235,6 @@
         "description": "Zhang Lei is a master of Shandong cuisine, known for his simple and elegant dishes. He has a knack for making soups and noodles, and uses vinegar and scallions to add a refreshing touch to his dishes.",
         "best_recipes": [
             {
-                "name": "Chinese Chicken and Broccoli",
-                "ingredients": [
-                    "Garlic",
-                    "Ginger",
-                    "Soy Sauce",
-                    "Honey",
-                    "Chicken",
-                    "Broccoli"
-                ],
-                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
-                "rating": 4.92
-            },
-            {
                 "name": "Sweet and Sour Pork",
                 "ingredients": [
                     "Pork",
@@ -280,6 +267,19 @@
                 ],
                 "cooking_method": "Chop mushrooms and tofu into small pieces. Heat oil in a wok over high heat. Fry garlic, ginger, spring onions, and chilli bean paste for a few minutes. Add mushrooms and tofu and stir-fry for another few minutes. Dissolve cornstarch in vegetable stock and add to the wok. Bring to a boil and simmer until sauce is thickened. Serve with steamed rice.",
                 "rating": 3
+            },
+            {
+                "name": "Chinese Chicken and Broccoli",
+                "ingredients": [
+                    "Garlic",
+                    "Ginger",
+                    "Soy Sauce",
+                    "Honey",
+                    "Chicken",
+                    "Broccoli"
+                ],
+                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
+                "rating": 4.92
             },
             {
                 "name": "Mushroom Mapo Tofu",
@@ -430,7 +430,7 @@
                     "Chicken",
                     "Broccoli"
                 ],
-                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
+                "cooking_method": "Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.Stir-fry chicken with garlic and ginger. Add soy sauce and honey and simmer until thickened. Steam broccoli and serve with chicken and sauce.",
                 "rating": 4.92
             },
             {
